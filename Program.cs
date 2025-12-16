@@ -4,7 +4,7 @@ Console.ForegroundColor = ConsoleColor.Green;
 
 Console.WriteLine($"Hello {string.Join(", ", names[..^1])} and {names[^1]}!");
 
-Console.WriteLine("tis is a new line");
+Console.WriteLine("this is a new line");
 
 
 Console.ResetColor();
