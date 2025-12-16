@@ -7,6 +7,7 @@ Console.WriteLine($"Hello {string.Join(", ", names[..^1])} and {names[^1]}!");
 Console.WriteLine("this is a new line");
 
 Console.WriteLine("faszkivan");
+Console.WriteLine("ez a software egy tök másik forkja");
 
 Console.ResetColor();
 Console.WriteLine("\n\nPress ESC to close the Application!");
