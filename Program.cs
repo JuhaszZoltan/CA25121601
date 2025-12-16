@@ -1,4 +1,4 @@
-﻿string[] names = ["Zoltan", "Fanni"];
+﻿string[] names = ["Zoltan", "Fanni", "Tomikaaaa", ];
 
 Console.ForegroundColor = ConsoleColor.Green;
 
