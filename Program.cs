@@ -12,3 +12,5 @@ Console.WriteLine("\n\nPress ESC to close the Application!");
 while (Console.ReadKey(true).Key != ConsoleKey.Escape) ;
 
 Console.WriteLine("itt járt a gerincs");
+
+Console.WriteLine("Itt járt a birka, beeeee");
