@@ -8,5 +8,5 @@ Console.WriteLine("this is a new line");
 
 
 Console.ResetColor();
-
+Console.WriteLine("\n\nPress ESC to close the Application!");
 while (Console.ReadKey(true).Key != ConsoleKey.Escape) ;
